@@ -13,7 +13,6 @@
     type = "github";
     owner = "DavHau";
     repo = "mach-nix";
-    ref = "3.1.1";
   };
 
   outputs = { self, nixpkgs, machnix }:
